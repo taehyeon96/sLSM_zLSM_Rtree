@@ -1,1 +1,1 @@
-# sLSM_zLSM_Rtree
+# slsm-tree
